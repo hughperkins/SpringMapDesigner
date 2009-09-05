@@ -1,0 +1,9 @@
+MapDesigner, by Hugh Perkins
+
+For use with Spring http://springrts.com
+
+    * Supports multipass texture splatting. SM3 loader.
+    * Heightmap editor. Left click to raise land, right click to lower
+    * Paint splatted texture. Left click to paint texture, right click to erase
+    * Export heightmap, slopemap and blend maps
+    * Exported slopemap color-coded by movement area, eg infantry, vehicle and extreme (configurable) 
