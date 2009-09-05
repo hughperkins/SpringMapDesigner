@@ -1,0 +1,8 @@
+﻿[MAP]
+{
+   [FeatureTypes]
+   {
+      NumTypes=1;
+      type0=flea_dead;
+   }
+}

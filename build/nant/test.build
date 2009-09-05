@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="test" default="test" basedir=".">
+   <target name="test">
+    <echo message="${platform::is-win32()}" />
+    </target>
+</project>

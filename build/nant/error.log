@@ -1,0 +1,16 @@
+=======================================================================
+
+Unfortunately, MapDesigner experienced a critical error
+Here is the error report.  It's very technical, but it will mean something
+to the developer.
+Can you email this to hughperkins@gmail.com please, and we'll have a look at it.
+
+=======================================================================
+21/12/2006 21:04:05
+2.0.50727.42 1 Microsoft Windows NT 5.2.3790 Service Pack 1
+21/12/2006 21:03:22
+System.DivideByZeroException: 试图除以零。
+   在 MapDesigner.EntryPoint.TestCrash() 位置 H:\bin\games\taspring\src_svn\tools\MapDesigner\EntryPoint.cs:行号 38
+   在 MapDesigner.EntryPoint.Main() 位置 H:\bin\games\taspring\src_svn\tools\MapDesigner\EntryPoint.cs:行号 47
+
+logfile:

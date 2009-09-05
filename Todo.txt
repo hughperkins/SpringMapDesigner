@@ -1,0 +1,15 @@
+High
+- add save sm3 to gui (menu)
+- add save all to gui (menu)
+- add lod sliders to gui
+
+Medium
+- add sd7 importer for sm3s
+
+Done:
+- add load sm3 to gui (menu)
+- add edit blend texture to gui (radiobutton + dropdown to select texturestage)
+- add display/hide texture stage
+- add change splat texture to gui (button)
+- add save blend texture to gui (button)
+
